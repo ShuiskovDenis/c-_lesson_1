@@ -1,4 +1,5 @@
-﻿int i1 = 5;
+﻿/*
+int i1 = 5;
 int i2 = 6;
 int sum = i1 + i2;
 
@@ -29,3 +30,20 @@ Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+*/
+
+/////////////////////////////
+//HomeWork//
+/////////////////////////////
+
+int a = 1;
+int b = 10; 
+int c = 2; 
+int d = 4;
+
+double umn = a * b;
+double sum = c + d;
+
+double rez = umn / sum;
+
+Console.WriteLine(rez);
