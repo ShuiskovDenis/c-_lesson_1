@@ -12,3 +12,4 @@ G:\School\c#_education\Lesson1\task_1\obj\Debug\net8.0\refint\task_1.dll
 G:\School\c#_education\Lesson1\task_1\obj\Debug\net8.0\task_1.pdb
 G:\School\c#_education\Lesson1\task_1\obj\Debug\net8.0\task_1.genruntimeconfig.cache
 G:\School\c#_education\Lesson1\task_1\obj\Debug\net8.0\ref\task_1.dll
+G:\School\c#_education\Lesson1\task_1\obj\Debug\net8.0\task_1.sourcelink.json
